@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdulrh9199" target="blank"><img src="https://img.shields.io/twitter/follow/abdulrh9199?logo=twitter&style=for-the-badge" alt="abdulrh9199" /></a> </p>
 
-- 🔭 I’m currently working on **Siemens EDA**
+- 🔭 I’m currently working on **E3lano Topia**
 
 - 🌱 I’m currently learning **CCNA, Machine learning,Next js**
 
