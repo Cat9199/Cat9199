@@ -11,26 +11,65 @@
 - Bachelor of Science in Computer Science (Expected 07/2026)
 - Abu Qir Higher Institute For Computer And Information
 
-## Objective
-Aspiring software developer and programming enthusiast eager to contribute my skills and learn from experienced professionals during the Paymob Summer Internship Program. Excited to apply my technical expertise and passion for problem-solving to create impactful products and experiences.
+  ## Skills
 
-## Skills
-- Programming Languages: Python, JavaScript
-- Web Development: AngularJS, jQuery, Bootstrap
-- Back-End Development: Flask, Django
-- RESTful API Development
-- Database Management: MySQL, PostgreSQL
-- Authentication and Authorization Systems
-- Microservices Architecture
-- Version Control: Git
-- Scripting: Python scripting for automation
-- Cloud Platforms: AWS, Azure
-- Linux System Administration
-- Hosting: Apache, Nginx
-- Server Configuration and Maintenance
-- Shell Scripting
-- Software Debugging and Optimization
-- Familiarity with SEO Techniques
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+
+### Web Development
+![AngularJS](https://img.shields.io/badge/AngularJS-Intermediate-red)
+![jQuery](https://img.shields.io/badge/jQuery-Intermediate-blue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-purple)
+
+### Back-End Development
+![Flask](https://img.shields.io/badge/Flask-Intermediate-green)
+![Django](https://img.shields.io/badge/Django-Intermediate-brightgreen)
+
+### RESTful API Development
+![RESTful API](https://img.shields.io/badge/RESTful%20API-Intermediate-orange)
+
+### Database Management
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-blue)
+
+### Authentication and Authorization Systems
+![Authentication](https://img.shields.io/badge/Authentication-Intermediate-green)
+![Authorization](https://img.shields.io/badge/Authorization-Intermediate-green)
+
+### Microservices Architecture
+![Microservices](https://img.shields.io/badge/Microservices-Intermediate-orange)
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-Intermediate-red)
+
+### Scripting
+![Python Scripting](https://img.shields.io/badge/Python%20Scripting-Intermediate-blue)
+
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-Intermediate-orange)
+![Azure](https://img.shields.io/badge/Azure-Intermediate-blue)
+
+### Linux System Administration
+![Linux](https://img.shields.io/badge/Linux-Intermediate-green)
+
+### Hosting
+![Apache](https://img.shields.io/badge/Apache-Intermediate-red)
+![Nginx](https://img.shields.io/badge/Nginx-Intermediate-green)
+
+### Server Configuration and Maintenance
+![Server](https://img.shields.io/badge/Server%20Configuration-Intermediate-blue)
+![Maintenance](https://img.shields.io/badge/Maintenance-Intermediate-blue)
+
+### Shell Scripting
+![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-Intermediate-purple)
+
+### Software Debugging and Optimization
+![Debugging](https://img.shields.io/badge/Debugging-Intermediate-red)
+![Optimization](https://img.shields.io/badge/Optimization-Intermediate-orange)
+
+### SEO Techniques
+![SEO](https://img.shields.io/badge/SEO-Intermediate-blue)
 
 ## Work History
 ### System Administrator & Backend Developer
