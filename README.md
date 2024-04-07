@@ -28,9 +28,6 @@
   - Node.js
   - Express.js
   - Echo (Golang)
-  - AngularJS
-  - React.js
-  - Vue.js
   - Mangoes
 - **Version Control:**
   - Git
